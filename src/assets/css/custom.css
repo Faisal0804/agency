@@ -1,0 +1,41 @@
+.TopFixedBanner{
+    background-image:url(../images/banner.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.topBannerOverlay{
+    min-height: 500px;
+    width:100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.topContent{
+    margin-top: 10rem;
+}
+.topContentTitle{
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+
+}
+.topContentSubTitle{
+    color: #fff;
+    font-size:40px;
+    font-family: 'Roboto',sans-serif;
+    font-weight:600;
+}
+.topContentLink{
+    display: inline-block;
+    text-decoration: none;
+    color:#fff;
+    background-color: brown;
+    padding: 10px;
+}
+.Analysis{
+    margin-top: 8rem;
+}
+
