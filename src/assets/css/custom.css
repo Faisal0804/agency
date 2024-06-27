@@ -38,4 +38,18 @@
 .Analysis{
     margin-top: 8rem;
 }
+.servicesMainTitle{
+    font-family: 'Roboto',sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: #18A1C1; 
+    margin-bottom: 1rem;
+}
+.serviceCardTitle{
+    font-family: 'Roboto',sans-serif;
+    font-size: 24px;
+    
+
+
+}
 

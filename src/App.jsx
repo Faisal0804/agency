@@ -7,6 +7,7 @@ import './assets/css/bootstrap.min.css'
 import './assets/css/responsive.css'
 import Banner from './components/Banner/Banner'
 import Analysis from './components/Analysis/Analysis'
+import Services from './components/Services/Services'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,8 @@ function App() {
     <>
      <Banner/>
      <Analysis/>
+     <Services/>
+    
      
     </>
   )
