@@ -8,12 +8,14 @@ import './assets/css/responsive.css'
 import Banner from './components/Banner/Banner'
 import Analysis from './components/Analysis/Analysis'
 import Services from './components/Services/Services'
+import TopNavigation from './components/TopNavigation/TopNavigation'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
+     <TopNavigation/>
      <Banner/>
      <Analysis/>
      <Services/>

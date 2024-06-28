@@ -52,4 +52,48 @@
 
 
 }
+.navTitle{
+    margin-left: 5rem;
+    font-family: 'Roboto',sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: #ffffff !important;
+  
+}
 
+.navTitleScroll{
+    margin-left: 5rem;
+    font-family: 'Roboto',sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color:#000000 !important;
+}
+.navBarMain{
+    margin-left: 25rem;
+
+}
+
+.navItem{
+    
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff !important;
+
+}
+
+.navBarItemScroll{
+    color:#000000 !important;
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+.navBackground{
+    
+    background-color: rgba(0,0,0,0.5) !important;
+}
+.navBackgroundScroll{
+  
+    background-color: #ffffff !important;
+}
