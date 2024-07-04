@@ -90,10 +90,18 @@
 
 }
 .navBackground{
+    -webkit-transition:background-color 400ms linear ;
+    -moz-transition:background-color 400ms linear ;
+    -o-transition:background-color 400ms linear ;
+    transition:background-color 400ms linear ;
     
     background-color: rgba(0,0,0,0.5) !important;
 }
 .navBackgroundScroll{
+    -webkit-transition:background-color 400ms linear ;
+    -moz-transition:background-color 400ms linear ;
+    -o-transition:background-color 400ms linear ;
+    transition:background-color 400ms linear ;
   
     background-color: #ffffff !important;
 }

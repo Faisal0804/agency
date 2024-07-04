@@ -18,7 +18,7 @@ function App() {
      <TopNavigation/>
      <Banner/>
      <Analysis/>
-     <Services/>
+  
     
      
     </>
