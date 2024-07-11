@@ -9,6 +9,8 @@ import Banner from './components/Banner/Banner'
 import Analysis from './components/Analysis/Analysis'
 import Services from './components/Services/Services'
 import TopNavigation from './components/TopNavigation/TopNavigation'
+import AboutVideo from './components/AboutVideo/AboutVideo'
+import Sponsore from './components/Sponsore/Sponsore'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +20,8 @@ function App() {
      <TopNavigation/>
      <Banner/>
      <Analysis/>
+     <AboutVideo/>
+     <Sponsore/>
   
     
      
