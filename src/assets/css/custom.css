@@ -105,3 +105,14 @@
   
     background-color: #ffffff !important;
 }
+.Summary{
+    min-height: 200px;
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.834);
+}
+.SummaryContent{
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Raleway',sans-serif;
+    font-size: 32px;
+}

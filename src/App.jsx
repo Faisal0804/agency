@@ -11,6 +11,7 @@ import Services from './components/Services/Services'
 import TopNavigation from './components/TopNavigation/TopNavigation'
 import AboutVideo from './components/AboutVideo/AboutVideo'
 import Sponsore from './components/Sponsore/Sponsore'
+import Summary from './components/Summary/Summary'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,6 +23,7 @@ function App() {
      <Analysis/>
      <AboutVideo/>
      <Sponsore/>
+     <Summary/>
   
     
      
